@@ -9,6 +9,7 @@
 <!---
 Tripathiprachi009/Tripathiprachi009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+-->
 <h1 align="center">Hi 👋, I'm Prachi Tripathi</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
@@ -42,4 +43,4 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tripathiprachi009&" alt="tripathiprachi009" /></p>
 
---->
+
